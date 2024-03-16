@@ -1,15 +1,14 @@
-**Cars Sales Dashboard in Power BI**
+***Cars Sales Dashboard in Power BI***
 
 ![Dashboard_Overview](https://github.com/darshana-mis/Power_BI_Car_Sales/assets/113302899/b0a4f46b-3571-46b8-870a-e88a6b23bd06)
 
 ![Dashboard_Details](https://github.com/darshana-mis/Power_BI_Car_Sales_Dashboard/assets/113302899/7b74f987-13ba-458d-915e-27456535752b)
 
-
-Overview:
+**Overview:**
 
 This Cars Sales Dashboard in Power BI is designed to provide an insightful visualization of sales data for a car dealership or automotive business. It offers an easy-to-understand interface for analyzing various aspects of car sales, including sales performance, trends, and key metrics.
 
-Features:
+**Features:**
 
 Interactive Dashboard: The dashboard provides interactive visualizations that allow users to explore and analyze sales data dynamically. Users can interact with charts, graphs, and filters to gain deeper insights into sales performance.
 
