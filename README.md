@@ -1,8 +1,8 @@
-Cars Sales Dashboard in Power BI
+*Cars Sales Dashboard in Power BI*
 
 ![Dashboard_Overview](https://github.com/darshana-mis/Power_BI_Car_Sales/assets/113302899/b0a4f46b-3571-46b8-870a-e88a6b23bd06)
 
-![Dashboard_Details](https://github.com/darshana-mis/Power_BI_Car_Sales/assets/113302899/d3c585db-28cf-42f1-a4bd-6ad2abc384bc)
+![Dashboard_Details](https://github.com/darshana-mis/Power_BI_Car_Sales/assets/113302899/60a31e35-4f6a-4831-9c8b-2fdf9035eeb9)
 
 Overview:
 
