@@ -2,7 +2,8 @@
 
 ![Dashboard_Overview](https://github.com/darshana-mis/Power_BI_Car_Sales/assets/113302899/b0a4f46b-3571-46b8-870a-e88a6b23bd06)
 
-![Dashboard_Details](https://github.com/darshana-mis/Power_BI_Car_Sales/assets/113302899/60a31e35-4f6a-4831-9c8b-2fdf9035eeb9)
+![Dashboard_Details](https://github.com/darshana-mis/Power_BI_Car_Sales_Dashboard/assets/113302899/7b74f987-13ba-458d-915e-27456535752b)
+
 
 Overview:
 
