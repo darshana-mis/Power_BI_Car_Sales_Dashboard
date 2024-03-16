@@ -1,6 +1,8 @@
 Cars Sales Dashboard in Power BI
 
-[Dashboard_Details](images/Dashboard_Details.jpg) [Dashboard_Overview](images/Dashboard_Overview.jpg)
+![Dashboard_Overview](https://github.com/darshana-mis/Power_BI_Car_Sales/assets/113302899/b0a4f46b-3571-46b8-870a-e88a6b23bd06)
+
+![Dashboard_Details](https://github.com/darshana-mis/Power_BI_Car_Sales/assets/113302899/d3c585db-28cf-42f1-a4bd-6ad2abc384bc)
 
 Overview:
 
@@ -17,17 +19,3 @@ Key Metrics: Key metrics such as total revenue, average selling price, total uni
 Filtering Options: Users can filter the data based on various criteria such as car make, model, year, region, and salesperson. This enables users to focus on specific segments of the sales data and analyze them in detail.
 
 Data Driven Insights: The dashboard incorporates data-driven insights and highlights important trends or anomalies in the sales data. These insights help users make informed decisions and take corrective actions to improve sales performance.
-
-How to Use:
-
-Opening the Dashboard: Open the Power BI file using Power BI Desktop or Power BI Service.
-
-Connecting Data Source: Ensure that the dashboard is connected to the appropriate data source containing the sales data. If not, you may need to establish a connection to the data source by importing or connecting to the dataset.
-
-Exploring Visualizations: Navigate through the different tabs and visualizations on the dashboard. Interact with the charts, graphs, and filters to analyze the sales data from various perspectives.
-
-Filtering Data: Use the filtering options to narrow down the data based on specific criteria such as car make, model, year, region, or salesperson. This allows for a more focused analysis of the sales data.
-
-Interacting with Insights: Pay attention to any data-driven insights or highlights provided on the dashboard. These insights may uncover important trends or patterns in the sales data that require further investigation or action.
-
-Exporting Reports: If needed, export the reports or visualizations from the dashboard for further analysis or sharing with stakeholders. Power BI allows for exporting reports in various formats such as PDF, Excel, or PowerPoint.
